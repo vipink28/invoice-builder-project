@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-emerald-950 text-emerald-50;
+}
+
+/* Small scrollbar polish - optional */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #022c22;
+}
+::-webkit-scrollbar-thumb {
+  background: #10b981;
+  border-radius: 8px;
+}
