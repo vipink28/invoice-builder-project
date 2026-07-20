@@ -1,4 +1,4 @@
-# Invoice Generator (Student Training Project)
+# Invoice Generator
 
 A basic full-stack Invoice Generator built with **React (Vite) + Tailwind CSS** on the frontend
 and **Node.js + Express** on the backend. Data is stored in a simple **JSON file** (`backend/db/db.json`)
